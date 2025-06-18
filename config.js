@@ -144,8 +144,8 @@ const config = {
     },
     "organizerName": "The Sky Group",
     "brokerageName": "Property.Ca",
-    "organizerLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/eed1f4ef-c781-4015-8092-dda5b2f860d9/68278639dbfc24a322fd422d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RP3OKUEL%2F20250618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250618T163351Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIG8d0G2gtlFrOmXwqad0Q0r%2F0bW4T1VU69G8Cf7QIEMjAiAQ4NuliIQHgtEhjLt4aGd0ljiteoRUXq%2FwXO7QF5ismyqIBAiO%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMBECNCVWnYg8VuCZBKtwDk5wuw6NFAx7%2Bh93ObSZ7KeMxlRTAC%2BZdodG6BWSsqA3s825mDB6tIZJ7AShJn5vkxM1EYgoHj2%2F910I21O%2BKZCpdHQWxp0EUZKmc%2FucPMUpHXlhAzvRcy9Sreuik1RpFU9K7nwc2xOLkL7EIXJsefouMbq4T%2FYJnJ86qTxxfOMoBBlaDV3t4G8fxBHpmfF%2FBdHKhkX5XV5Evg2owc%2BDd4klL7upFUE1Nd8jjv2JK%2FZDvUTVfHQNu%2FDiBhwzqUhPCyorWAUNg8h1Lh72SPIpjlqOCTwt6swEJhMJhGuRds%2B4jX7sNiVxpV%2B0hIEJU7yzsuj5w471LUqkLlF%2B1bZDqPfRgMEs3EHnbGLQ21hFGPdggkOOk6QakzzbqqWxtK8tgiIYxMapZV5CGB%2F70SF3fsCOF0ZwtMjNJtIhfDERwye84PAzKduUBG1O2Q9%2FZJqR%2BxBegMl8aGadPmzbQ3qof2Hgfp%2Fs%2FkGBNI9Iuc5ReRtuESplSViFFFyhY6dTxUsX9bA3Mqp1zoYb%2F9f1wmJFK6LV6xud2mEcnwR5MXcYqf3sAFP%2FFryfqwGR3rFlDcQEuK2lTRg%2BEGVEN8FQd2%2Be%2FkzDOMO7eM6LjhVb4Mv53dzgkZ73PQK3wTMbtJQww3PTKwgY6pgGCbrmDgCXhY%2BI06pm8%2FZTiscqs8l8iZypbem7%2FEe0Zm6ajqGTVbLdg29FTMtSwuz9XT3fgV3zs4Ix6KSAGlGyzFEOfbmKWC330Jk8hj9xBz1QBmfWJDLW0OtgDWGL7qIixhc3Y%2F%2Bdq9taRMrtLVKwuDhNEViWfopXJMso7A4pi5NKgwdKVxJ9NEOdT0yR%2FspQhOJE0uX8Afj1yzgPcHuYwX%2BURdO7K&X-Amz-Signature=b3a24a46e382111685f8fff7e31d6f6578ac847976d3d3ce4401ff4889510e27&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "secondaryLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/eed1f4ef-c781-4015-8092-dda5b2f860d9/68278639dbfc24a322fd422d.png",
+    "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
+    "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
     "secondaryLogoAlt": "Brokerage Logo",
     "email": "shar@theskygroup.ca",
     "phone": "1 647 887 4996",
@@ -186,7 +186,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750264754243_0",
+      "id": "q_auto_1750264881042_0",
       "questionText": "How often do you attend local sports events like baseball games?",
       "options": [
         {
@@ -208,7 +208,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750264754243_1",
+      "id": "q_auto_1750264881042_1",
       "questionText": "When choosing leisure activities, which factors are most important to you?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750264754243_2",
+      "id": "q_auto_1750264881042_2",
       "questionText": "How do you typically stay informed about events and offers in your neighborhood?",
       "options": [
         {
@@ -252,7 +252,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750264754243_3",
+      "id": "q_auto_1750264881043_3",
       "questionText": "Imagine you could design your ideal day around your favorite activity. What does that day look like?",
       "options": [
         {
