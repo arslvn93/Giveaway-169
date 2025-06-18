@@ -15,11 +15,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/scx83whx8nrma0cqgfjag0msgm.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/tmpbnd2djs8.jpg",
         "alt": "Blue Jays Tickets Image 1"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3eck6pkzqnrmc0cqgfj8a1h4d0.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/scx83whx8nrma0cqgfjag0msgm.jpg",
         "alt": "Blue Jays Tickets Image 2"
       },
       {
@@ -161,7 +161,7 @@ const config = {
   },
   "meta": {
     "pageTitle": "Win Jays Tickets - Canada Day Giveaway!",
-    "navBrandLogoText": "The Sky Group",
+    "navBrandLogoText": "BLUE JAYS GIVEAWAY",
     "privacyPolicyLink": "https://www.mls.theskygroup.ca/privacy-policy"
   },
   "settings": {
@@ -186,7 +186,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750264881042_0",
+      "id": "q_auto_1750271074167_0",
       "questionText": "How often do you attend local sports events like baseball games?",
       "options": [
         {
@@ -208,7 +208,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750264881042_1",
+      "id": "q_auto_1750271074167_1",
       "questionText": "When choosing leisure activities, which factors are most important to you?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750264881042_2",
+      "id": "q_auto_1750271074167_2",
       "questionText": "How do you typically stay informed about events and offers in your neighborhood?",
       "options": [
         {
@@ -252,7 +252,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750264881043_3",
+      "id": "q_auto_1750271074167_3",
       "questionText": "Imagine you could design your ideal day around your favorite activity. What does that day look like?",
       "options": [
         {
