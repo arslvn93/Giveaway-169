@@ -1,16 +1,34 @@
 const config = {
+  "meta": {
+    "pageTitle": "Win Jays Tickets - Canada Day Giveaway!",
+    "navBrandLogoText": "BLUE JAYS GIVEAWAY",
+    "privacyPolicyLink": "https://www.mls.theskygroup.ca/privacy-policy"
+  },
   "giveaway": {
-    "name": "Blue Jays Ticket Giveaway",
     "heroHeadline": "Win $100 Worth of <span class='highlight'>Jays Tickets</span> This Canada Day!",
     "heroSubheadline": "Experience summer magic with a chance to cheer live at the game and create unforgettable memories!",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/qwwbamqh3srmc0cqgfhtagbdgg.jpg",
     "promotionDates": "Promotion runs from June 18, 2025 until July 2, 2025.",
     "endDate": "2025-07-03T03:59:00.000Z",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/qwwbamqh3srmc0cqgfhtagbdgg.jpg",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Count Me In!",
+    "name": "Blue Jays Ticket Giveaway",
     "successModalHeaderText": "🎉 You're Entered! 🎉",
     "successModalMainMessage": "Your entry for the Blue Jays $100 Ticket Giveaway has been successfully submitted. Good luck!",
     "successModalEmailPrompt": "We'll announce the lucky winner by email shortly after the draw date. Stay tuned!"
+  },
+  "settings": {
+    "confettiColors": [
+      "#004B93",
+      "#DC143C",
+      "#FFD700",
+      "#FFFFFF"
+    ],
+    "showCountdownInHero": true,
+    "theme": "dark",
+    "primaryColorOverride": "",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -87,15 +105,6 @@ const config = {
       }
     ]
   },
-  "entryForm": {
-    "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-169.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-169.netlify.app%2Fadmin&text=Win%20Jays%20Tickets%20this%20Canada%20Day!"
-    },
-    "subtitle": "Enter your details for a chance to win Jays tickets valued at $100!",
-    "entryCountText": "Join hundreds of fans already entered!",
-    "socialSharePrompt": "Share the excitement with friends:"
-  },
   "rules": {
     "faq": [
       {
@@ -137,56 +146,18 @@ const config = {
       "text": "The winner will be contacted through the email address submitted during entry. Please keep an eye on your inbox and spam folder after July 2, 2025."
     }
   },
-  "footerContact": {
-    "social": {
-      "facebook": "https://www.facebook.com/theskygroupre",
-      "instagram": "https://www.instagram.com/theskygroup_re"
+  "entryForm": {
+    "sharePlatforms": {
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-169.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-169.netlify.app%2Fadmin&text=Win%20Jays%20Tickets%20this%20Canada%20Day!"
     },
-    "organizerName": "The Sky Group",
-    "brokerageName": "Property.Ca",
-    "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
-    "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
-    "secondaryLogoAlt": "Brokerage Logo",
-    "email": "shar@theskygroup.ca",
-    "phone": "1 647 887 4996",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "footerDisclaimer": "This giveaway is operated by The Sky Group and is subject to official rules and privacy policies.",
-    "copyrightOwner": "The Sky Group",
-    "agentContact": {
-      "name": "Shar Banifatemi",
-      "title": "",
-      "phone": "1 647 887 4996",
-      "email": "shar@theskygroup.ca"
-    }
-  },
-  "meta": {
-    "pageTitle": "Win Jays Tickets - Canada Day Giveaway!",
-    "navBrandLogoText": "BLUE JAYS GIVEAWAY",
-    "privacyPolicyLink": "https://www.mls.theskygroup.ca/privacy-policy"
-  },
-  "settings": {
-    "confettiColors": [
-      "#004B93",
-      "#DC143C",
-      "#FFD700",
-      "#FFFFFF"
-    ],
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
-    "theme": "dark",
-    "primaryColorOverride": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "showCountdownInHero": true
-  },
-  "deploymentInfo": {
-    "repoName": "Giveaway-169",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-169",
-    "tag": "Bluejays Giveaway",
-    "netlifyUrl": "http://Giveaway-169.netlify.app",
-    "netlifyId": ""
+    "subtitle": "Enter your details for a chance to win Jays tickets valued at $100!",
+    "entryCountText": "Join hundreds of fans already entered!",
+    "socialSharePrompt": "Share the excitement with friends:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750271074167_0",
+      "id": "q_auto_1750345759162_0",
       "questionText": "How often do you attend local sports events like baseball games?",
       "options": [
         {
@@ -208,7 +179,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750271074167_1",
+      "id": "q_auto_1750345759162_1",
       "questionText": "When choosing leisure activities, which factors are most important to you?",
       "options": [
         {
@@ -230,7 +201,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750271074167_2",
+      "id": "q_auto_1750345759162_2",
       "questionText": "How do you typically stay informed about events and offers in your neighborhood?",
       "options": [
         {
@@ -252,7 +223,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750271074167_3",
+      "id": "q_auto_1750345759162_3",
       "questionText": "Imagine you could design your ideal day around your favorite activity. What does that day look like?",
       "options": [
         {
@@ -273,5 +244,34 @@ const config = {
         }
       ]
     }
-  ]
+  ],
+  "footerContact": {
+    "social": {
+      "facebook": "https://www.facebook.com/theskygroupre",
+      "instagram": "https://www.instagram.com/theskygroup_re"
+    },
+    "agentContact": {
+      "name": "Shar Banifatemi",
+      "title": "The Sky Group",
+      "phone": "1 647 887 4996",
+      "email": "shar@theskygroup.ca"
+    },
+    "footerDisclaimer": "This giveaway is operated by The Sky Group and is subject to official rules and privacy policies.",
+    "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
+    "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
+    "secondaryLogoAlt": "Brokerage Logo",
+    "organizerName": "The Sky Group",
+    "brokerageName": "Property.Ca",
+    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
+    "email": "shar@theskygroup.ca",
+    "phone": "1 647 887 4996",
+    "copyrightOwner": "The Sky Group"
+  },
+  "deploymentInfo": {
+    "repoName": "Giveaway-169",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-169",
+    "netlifyUrl": "http://Giveaway-169.netlify.app",
+    "netlifyId": "",
+    "tag": "Bluejays Giveaway"
+  }
 };
