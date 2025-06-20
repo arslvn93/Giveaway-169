@@ -157,90 +157,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750345759162_0",
-      "questionText": "How often do you attend local sports events like baseball games?",
+      "id": "q_auto_1750445360794_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Rarely",
-          "text": "Rarely"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "A few times a year",
-          "text": "A few times a year"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Monthly",
-          "text": "Monthly"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Weekly",
-          "text": "Weekly"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1750345759162_1",
-      "questionText": "When choosing leisure activities, which factors are most important to you?",
+      "id": "q_auto_1750445360794_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Proximity to home",
-          "text": "Proximity to home"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Community involvement",
-          "text": "Community involvement"
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "Variety of experiences",
-          "text": "Variety of experiences"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Exclusivity/unique offers",
-          "text": "Exclusivity/unique offers"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1750345759162_2",
-      "questionText": "How do you typically stay informed about events and offers in your neighborhood?",
+      "id": "q_auto_1750445360794_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "Social media",
-          "text": "Social media"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Direct mail and flyers",
-          "text": "Direct mail and flyers"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Local newsletters/newspapers",
-          "text": "Local newsletters/newspapers"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Word of mouth",
-          "text": "Word of mouth"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1750345759162_3",
-      "questionText": "Imagine you could design your ideal day around your favorite activity. What does that day look like?",
-      "options": [
-        {
-          "value": "Enjoying a full day of sports events",
-          "text": "Enjoying a full day of sports events"
-        },
-        {
-          "value": "Attending a mix of community and cultural activities",
-          "text": "Attending a mix of community and cultural activities"
-        },
-        {
-          "value": "A day of relaxation at home",
-          "text": "A day of relaxation at home"
-        },
-        {
-          "value": "Traveling out of town for unique experiences",
-          "text": "Traveling out of town for unique experiences"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
